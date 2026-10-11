@@ -4,7 +4,7 @@ Senior IT leader and university lecturer in Doha, with a PhD in Computer Science
 
 My PhD built an AI system to predict match results and subsequent player injuries. I write Python and R for data analysis and machine learning.
 
-#### Claude plugins and skills
+#### Claude skills
 
 | Repo | What it does |
 |---|---|
